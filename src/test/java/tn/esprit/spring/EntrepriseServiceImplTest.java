@@ -37,7 +37,7 @@ public class EntrepriseServiceImplTest {
 
     //ajout test
     //test web
-    //tyedt
+    //tyedt nice
 
     @Test(expected = Test.None.class)
     public void testDepartementEntreprise(){
