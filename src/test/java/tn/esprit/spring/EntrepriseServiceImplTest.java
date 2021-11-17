@@ -35,7 +35,7 @@ public class EntrepriseServiceImplTest {
             l.error("Delete failed!");
     }
 
-    //ajout
+    //ajout test
 
     @Test(expected = Test.None.class)
     public void testDepartementEntreprise(){
