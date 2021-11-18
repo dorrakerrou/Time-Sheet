@@ -24,6 +24,7 @@ public class EntrepriseServiceImplTest {
     private static final Logger l = LogManager.getLogger(TimesheetServiceImplTest.class);
 
     //again
+    //test
     @Test(expected = Test.None.class)
     public void testDeleteEntreprise(){
         int id=entrepriseService.ajouterEntreprise(new Entreprise("THE FIVE","Vente"));
